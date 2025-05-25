@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="shortType" />
         <module name="bosluk" />
         <module name="sayi-sistemleri" />
         <module name="sozcuksel" />
