@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="bosluk" />
+        <module name="sayi-sistemleri" />
         <module name="sozcuksel" />
         <module name="merhaba" />
-        <module name="bosluk" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
