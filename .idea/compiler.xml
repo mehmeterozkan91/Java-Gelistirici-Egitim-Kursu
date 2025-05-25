@@ -9,6 +9,7 @@
         <module name="bosluk" />
         <module name="sayi-sistemleri" />
         <module name="sozcuksel" />
+        <module name="byteType" />
         <module name="merhaba" />
       </profile>
     </annotationProcessing>
