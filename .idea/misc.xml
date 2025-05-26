@@ -16,6 +16,13 @@
         <option value="$PROJECT_DIR$/sayi-sistemleri/pom.xml" />
         <option value="$PROJECT_DIR$/byteType/pom.xml" />
         <option value="$PROJECT_DIR$/shortType/pom.xml" />
+        <option value="$PROJECT_DIR$/intType/pom.xml" />
+        <option value="$PROJECT_DIR$/longType/pom.xml" />
+        <option value="$PROJECT_DIR$/floatType/pom.xml" />
+        <option value="$PROJECT_DIR$/doubleType/pom.xml" />
+        <option value="$PROJECT_DIR$/charType/pom.xml" />
+        <option value="$PROJECT_DIR$/booleanType/pom.xml" />
+        <option value="$PROJECT_DIR$/degisken/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -29,7 +36,7 @@
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="24" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21_PREVIEW" project-jdk-name="24 (2)" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

@@ -6,12 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="doubleType" />
+        <module name="charType" />
+        <module name="booleanType" />
+        <module name="merhaba" />
+        <module name="intType" />
         <module name="shortType" />
+        <module name="byteType" />
+        <module name="longType" />
+        <module name="degisken" />
         <module name="bosluk" />
+        <module name="floatType" />
         <module name="sayi-sistemleri" />
         <module name="sozcuksel" />
-        <module name="byteType" />
-        <module name="merhaba" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
