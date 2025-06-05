@@ -12,13 +12,15 @@
         <module name="merhaba" />
         <module name="intType" />
         <module name="shortType" />
+        <module name="boslukVeYorumlar" />
         <module name="byteType" />
         <module name="longType" />
         <module name="degisken" />
-        <module name="bosluk" />
         <module name="floatType" />
         <module name="sayi-sistemleri" />
         <module name="sozcuksel" />
+        <module name="stringType" />
+        <module name="typeCasting" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

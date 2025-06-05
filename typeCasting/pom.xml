@@ -2,24 +2,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>   <!-- POM dosyasının sürümünü belirtir. Daima 4.0.0 olmalıdır (Maven 2 ve sonrası için). -->
     <groupId>com.javakursu</groupId>     <!-- Projenin grubunu (genellikle ters domain adı gibi) belirtir. Örn: com.company.app -->
-    <artifactId>bosluk</artifactId>     <!-- Projenin adıdır. Maven bu adı .jar, .war vb. oluşturmakta kullanır. -->
+    <artifactId>typeCasting</artifactId>     <!-- Projenin adıdır. Maven bu adı .jar, .war vb. oluşturmakta kullanır. -->
     <version>0.0.1</version>             <!-- Projenin sürüm numarasıdır. Örn: 1.0.0, 1.0-SNAPSHOT, 2.1.3.RELEASE -->
 
-    <name>Boşluklar ve Yorumlar</name>
-    <description>
-        Boşluklar(White Spaces)
-        - Boşluklar (Spaces)
-        - Sekme Karakteri (Tab)
-        - Satır Sonu (Line Break)
-
-        Yorumlar(Comments)
-        -Satır İçi Yorumlar (Line Comments)
-        -Çok Satırlı Yorumlar (Block Comments)
-        -Javadoc Yorumları
-
-    </description>
+    <name>Type Casting </name>
+    <description> Type Casting (Tip Dönüşümleri </description>
 
     <properties>
         <java.version>24</java.version>
+        <maven.compiler.source>24</maven.compiler.source>
+        <maven.compiler.target>24</maven.compiler.target>
     </properties>
 </project>

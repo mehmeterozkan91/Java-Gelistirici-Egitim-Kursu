@@ -23,6 +23,8 @@
         <option value="$PROJECT_DIR$/charType/pom.xml" />
         <option value="$PROJECT_DIR$/booleanType/pom.xml" />
         <option value="$PROJECT_DIR$/degisken/pom.xml" />
+        <option value="$PROJECT_DIR$/stringType/pom.xml" />
+        <option value="$PROJECT_DIR$/typeCasting/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
