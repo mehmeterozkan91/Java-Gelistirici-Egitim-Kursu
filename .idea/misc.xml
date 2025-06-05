@@ -25,6 +25,12 @@
         <option value="$PROJECT_DIR$/degisken/pom.xml" />
         <option value="$PROJECT_DIR$/stringType/pom.xml" />
         <option value="$PROJECT_DIR$/typeCasting/pom.xml" />
+        <option value="$PROJECT_DIR$/boslukVeYorumlar/pom.xml" />
+        <option value="$PROJECT_DIR$/atamaOperatoru/pom.xml" />
+        <option value="$PROJECT_DIR$/aritmetikOperatorler/pom.xml" />
+        <option value="$PROJECT_DIR$/artisAzaltmaOpertorleri/pom.xml" />
+        <option value="$PROJECT_DIR$/aritmetikAtama/pom.xml" />
+        <option value="$PROJECT_DIR$/iliskiselOperatorler/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

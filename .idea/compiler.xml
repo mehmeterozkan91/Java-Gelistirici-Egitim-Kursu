@@ -15,12 +15,17 @@
         <module name="boslukVeYorumlar" />
         <module name="byteType" />
         <module name="longType" />
+        <module name="artisAzaltmaOpertorleri" />
         <module name="degisken" />
         <module name="floatType" />
         <module name="sayi-sistemleri" />
         <module name="sozcuksel" />
+        <module name="atamaOperatoru" />
         <module name="stringType" />
+        <module name="aritmetikOperatorler" />
         <module name="typeCasting" />
+        <module name="iliskiselOperatorler" />
+        <module name="aritmetikAtama" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
