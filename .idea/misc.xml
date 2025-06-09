@@ -31,13 +31,21 @@
         <option value="$PROJECT_DIR$/artisAzaltmaOpertorleri/pom.xml" />
         <option value="$PROJECT_DIR$/aritmetikAtama/pom.xml" />
         <option value="$PROJECT_DIR$/iliskiselOperatorler/pom.xml" />
+        <option value="$PROJECT_DIR$/instagram/pom.xml" />
+        <option value="$PROJECT_DIR$/bitwiseOperator/pom.xml" />
+        <option value="$PROJECT_DIR$/bitwiseOperatoru/pom.xml" />
+        <option value="$PROJECT_DIR$/mantiksalOperator/pom.xml" />
+        <option value="$PROJECT_DIR$/ternaryOperatoru/pom.xml" />
+        <option value="$PROJECT_DIR$/mantiksalOperatorler/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/bitwiseOperator/pom.xml" />
         <option value="$PROJECT_DIR$/com.javanin.sozcuksel.yapisi/pom.xml" />
         <option value="$PROJECT_DIR$/demo/pom.xml" />
         <option value="$PROJECT_DIR$/firststeps/pom.xml" />
+        <option value="$PROJECT_DIR$/instagram/pom.xml" />
         <option value="$PROJECT_DIR$/tess/pom.xml" />
         <option value="$PROJECT_DIR$/testt/pom.xml" />
         <option value="$PROJECT_DIR$/testtt/pom.xml" />
